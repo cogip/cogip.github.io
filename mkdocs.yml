@@ -1,0 +1,16 @@
+site_name: COGIP Blog
+
+plugins:
+    - blog:
+        format: "(%d/%m/%Y) "
+    - rss
+    - search
+
+theme:
+    name: cinder
+    custom_dir: themes/overrides/cinder
+    disable_toc: false
+    highlightjs: true
+
+extra_css:
+    - css/extra.css
