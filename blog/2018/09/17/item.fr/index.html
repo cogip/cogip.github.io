@@ -28,6 +28,7 @@
         <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/styles/github.min.css">
         
     
+    <link href="../../../../../css/extra.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -153,14 +154,14 @@
 <p>Dans notre cas, le controleur doit être capable de piloter le moteur à basse vitesse, ceci afin que l'algorithme de déplacement et l'asservissement associé puissent s'appliquer. De plus, la commande doit être la plus instantanée possible pour ne pas introduire de délai que l'asservissement ne pourrait rattraper.</p>
 <p>N'ayant trouvé de contrôleur à un tarif raisonnable, nous avons réalisé une carte prototype basée sur un chip ST et sommes en train d'effectuer quelques tests en vue de leur installation sur la base roulante.</p>
 <p>Voici un aperçu du PCB que nous avons réalisé pour l'occasion:</p>
-<div align=center>
-    <img src="../img/bldc_ctrl_2017r1__pcb_overview.png" alt="BLDC board" width=20% />
+<div class="image-responsive">
+  <img src="../img/bldc_ctrl_2017r1__pcb_overview.png" alt="BLDC board" />
 </div>
 
 <p><br></p>
 <p>Et voici une vidéo qui montre que les premiers essais du controleur à vide:</p>
-<div align=center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/if5GEULUZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-responsive">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/if5GEULUZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p>A ce jour, nous nous interrogeons sur la tenue en charge du controleur, c'est à dire avec une masse importante à déplacer pour le moteur. En effet, on voit sur la vidéo la consommation de courant à faible vitesse qui se traduit par une dissipation de chaleur à prendre en compte.</p>
