@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:atom="https://www.w3.org/2005/Atom"
+  xmlns:dc="https://purl.org/dc/elements/1.1/">
+  <channel>
+    <!-- Mandatory elements -->
+    <title>COGIP Blog</title>
+    <description>None</description>
+    <link></link>
+    <atom:link href="" rel="self" type="application/rss+xml" />
+
+    <!-- Optional elements -->
+    <managingEditor>None</managingEditor>
+    <category>None</category>
+    <docs></docs>
+    <language>None</language>
+
+    <!-- Timestamps and frequency -->
+    <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2020 00:05:07 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    <!-- Credits -->
+    <generator>MkDocs RSS plugin - v0.7.0</generator>
+
+    <!-- Feed illustration -->
+    
+
+    <!-- Entries -->
+    
+    <item>
+      <title>Home</title>
+      <description></description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(02/10/2016)  Test unitaire des moteurs</title>
+      <description>Le refactoring du firmware et l&#39;ajout de son mode interactif nous offrent
+de nouvelles perspectives. La carte de contrôle est encore à l&#39;état de
+proto</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(11/11/2016)  Montage de la transmission</title>
+      <description>La semaine dernière nous avons reçu la base mécanique fraichement usinée pour notre robot principal.
+Ce week-end, c&#39;était session assemblage de la tra</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(25/12/2016)  Joyeux Noël !</title>
+      <description>La COGIP vous souhaite à tous un Joyeux Noël !
+
+&lt;div class=&#34;video-responsive&#34;&gt;
+  &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/1</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(28/09/2017)  Coupe de France de Robotique 2018</title>
+      <description>Le réglement en version Beta pour la coupe de France de robotique 2018 est sorti !
+Vous pourrez le trouver sur [le site de la coupe](http://www.couped</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(26/01/2018)  Bonne Année 2018 !!!</title>
+      <description>Toute l&#39;équipe de la COGIP vous présente ses meilleurs Voeux pour 2018 !
+
+En ce moment on publie peu mais c&#39;est parce que l&#39;on travaille beaucoup !
+
+N</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(17/09/2018)  Moteurs brushless</title>
+      <description>Salut à tous,
+
+A côté de la coupe, nous expérimentons constamment des nouvelles technologies. Il y a quelques temps, nous nous sommes approvisionné de</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <description></description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(02/10/2016)  Test unitaire des moteurs</title>
+      <description>Le refactoring du firmware et l&#39;ajout de son mode interactif nous offrent
+de nouvelles perspectives. La carte de contrôle est encore à l&#39;état de
+proto</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(11/11/2016)  Montage de la transmission</title>
+      <description>La semaine dernière nous avons reçu la base mécanique fraichement usinée pour notre robot principal.
+Ce week-end, c&#39;était session assemblage de la tra</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(25/12/2016)  Joyeux Noël !</title>
+      <description>La COGIP vous souhaite à tous un Joyeux Noël !
+
+&lt;div class=&#34;video-responsive&#34;&gt;
+  &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/1</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(28/09/2017)  Coupe de France de Robotique 2018</title>
+      <description>Le réglement en version Beta pour la coupe de France de robotique 2018 est sorti !
+Vous pourrez le trouver sur [le site de la coupe](http://www.couped</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(26/01/2018)  Bonne Année 2018 !!!</title>
+      <description>Toute l&#39;équipe de la COGIP vous présente ses meilleurs Voeux pour 2018 !
+
+En ce moment on publie peu mais c&#39;est parce que l&#39;on travaille beaucoup !
+
+N</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+    <item>
+      <title>(17/09/2018)  Moteurs brushless</title>
+      <description>Salut à tous,
+
+A côté de la coupe, nous expérimentons constamment des nouvelles technologies. Il y a quelques temps, nous nous sommes approvisionné de</description>
+      <link>None</link>
+      <pubDate>Tue, 06 Oct 2020 00:05:07 -0000</pubDate>
+      <source url="">COGIP Blog</source>
+      <guid isPermaLink="true">None</guid>
+      <enclosure url="None" type="None" />
+    </item>
+    
+  </channel>
+</rss>
